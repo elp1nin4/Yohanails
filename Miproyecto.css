@@ -1,0 +1,19 @@
+	h1 { 
+	text-align: center;
+  color: rgb(226 128 253);
+  background-color: rgb(255, 234, 229);
+  }
+title {
+	text-align: center 40px
+}
+body {
+	background-image: url(file:///home/pinina/Documentos/archivos%20enmanuel/Mi%20proyecto%20intermedio/imagenes/manos-femeninas-manicura-rosa_206790-177.jpg);
+}
+h3 {
+	text-align: center;
+}	
+img {
+  display: block;
+  margin: auto;
+  border: black 10px outset;
+  }
